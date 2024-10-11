@@ -1,0 +1,11 @@
+.display{
+    margin: 10px ;
+    
+    height: 40px;
+    width: 280px;
+    font-size: 25px; 
+
+}
+.display:focus {
+    outline: none;
+}
