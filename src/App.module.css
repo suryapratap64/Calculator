@@ -1,0 +1,28 @@
+
+.center{
+    background-color: rgba(96, 98, 91, 0.885);
+    height: 100vh;
+  
+    position: absolute;
+    
+
+}
+.calculator{
+    margin: 40px 550px;
+border: 2px black solid;
+width: 300px;
+border-radius: 3px;
+height: 400px;
+flex-wrap: wrap;
+background-color: rgb(47, 47, 44);
+
+}
+
+
+
+.head{
+    text-align: center;
+    margin-top: 40px;
+    padding: 0%;
+    color: rgb(52, 51, 51);
+}
